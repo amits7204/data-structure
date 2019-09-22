@@ -58,6 +58,10 @@ public class Stack{
 		lObj.pop();
 		lObj.pop();
 		lObj.pop();
+		lSc1.close();
+		lSc2.close();
+		lSc3.close();
+		lSc4.close();
 
 
 	}
